@@ -1,0 +1,25 @@
+_repo: Mists-of-Mars_63529
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whittington, George A.
+    gutenberg_agent_id: '52361'
+    url: http://www.gutenberg.org/2009/agents/52361
+description: ''
+gutenberg_issued: '2020-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Martians -- Fiction'
+- GITenberg
+title: Mists of Mars
+url: http://www.gutenberg.org/ebooks/63529
